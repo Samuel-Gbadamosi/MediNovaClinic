@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    /* height: 100px; */
+}
+
+.header-t{
+    height: 41px;
+    background-color: #FFFFFF;
+    border-bottom: 2px solid #848E9F;
+}
+
+.rightsty li{
+    font-size: 17px;
+    color: #848E9F;
+}
+
+.header-b{
+    height: 53px;
+    background-color:#FFFFFF;
+    border-bottom: 3px solid #13C5DD;
+}
+
+.myown li{
+    font-size: 30px;
+    color: #13C5DD!important;
+    font-weight: 700;
+
+}
+.major li{
+    text-decoration: none;
+    font-family:'sans-serif';
+    font-size: 26px;
+    color: #32C5DE;
+    font-weight: 800;
+}
+.sect21{
+    height: 550px;
+    background-color: red;
+}
+
+.jumbotron{
+    height: 550px;
+    background-image: url('./jumbofrong.jpeg');
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.myjum h3{
+    font-size: 20px;
+    color: #13C5DD;
+    text-transform: uppercase;
+    font-weight: 800;
+    
+}
+
+.myjum h5{
+    height: 3px;
+    background-color:rgba(256,256,256,.3) !important;
+    width: 30%;
+    position: relative;
+    bottom: 7px;
+}
+
+.myjum h1{
+    font-size: 71px;
+    color: white;
+    font-weight: 700;
+}
+
+.mybt{
+    background-color: white;
+    color: black;
+    width: 20%;
+    border-radius: 30px;
+    border: 2px solid white;
+    font-weight: 500;
+}
+
+.mybt2{
+    background-color: #ffffff0f;
+    width: 23%;
+    border-radius: 30px;
+    border: 2px solid white;
+    font-weight: 500;
+}
+
+.sect22{
+    height: 400px;
+    background-color: white;
+}
+
+.imgj{
+    height: 506px;
+    border-radius: 20px;
+    width: 100%;
+}
+
+.mjko h3{
+    font-size: 20px;
+    color: #13C5DD;
+    text-transform: uppercase;
+    font-weight: 800;
+
+}
+
+.mjko h5{
+    height: 3px;
+    background-color:#949494;
+    width: 15%;
+    position: relative;
+    bottom: 7px;
+}
+
+.mjko h1{
+    font-size: 50px;
+    color: #1D2A4D;
+    font-weight: 700;
+
+}
+
+.circleuno{
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+    background-color: #EFF5F9;
+}
+
+.pricol{
+    color: #32C5DE;
+
+}
+
+.res{
+    color: #1D2A4D;
+}
+
+.qu{
+    color: #1D2A4D;
+    font-weight: 500;
+    font-size: 17px;
+    padding-top: 5px;
+}
+
