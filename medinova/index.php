@@ -21,6 +21,7 @@
         integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
+
 <body class="">
     <!-- header starts here -->
     <header class="">
@@ -31,7 +32,7 @@
                     <div>
                         <ul class="d-flex list-unstyled p-2 rightsty">
                             <li><i class="fa-solid fa-phone pr-1"> </i> +012 345 6789</li>
-                        <li class="pl-2"> | <i class="fa-regular fa-envelope pr-2"> </i>mail@domain.com</li>
+                            <li class="pl-2"> | <i class="fa-regular fa-envelope pr-2"> </i>mail@domain.com</li>
                         </ul>
                     </div>
 
@@ -55,35 +56,35 @@
             </div>
 
         </div>
-                <!-- header bottom starts here -->
-                <div class="header-b container-fluid">
-                    <div class="row">
-                        <div class="col-6 ">
-                            <div class="d-flex pl-2 list-unstyled p-2 myown">
-                                <li class="pr-2"><i class="fa fa-clinic-medical "></i></li>
-                                <li>MEDINOVA</li>
-                            </div>
-
-                        </div>
-                        <div class="col-6">
-                            <div class="">
-                                <ul class="d-flex justify-content-around list-unstyled major  pt-2">
-                                    <li>Home</li>
-                                    <li>About</li>
-                                    <li>Service</li>
-                                    <li>Pricing</li>
-                                    <li>Contact</li>
-                                </ul>
-                            </div>
-
-                        </div>
-
+        <!-- header bottom starts here -->
+        <div class="header-b container-fluid">
+            <div class="row">
+                <div class="col-6 ">
+                    <div class="d-flex pl-2 list-unstyled p-2 myown">
+                        <li class="pr-2"><i class="fa fa-clinic-medical "></i></li>
+                        <li>MEDINOVA</li>
                     </div>
 
                 </div>
-                <!-- header bottom ends here -->
+                <div class="col-6">
+                    <div class="">
+                        <ul class="d-flex justify-content-around list-unstyled major  pt-2">
+                            <li>Home</li>
+                            <li>About</li>
+                            <li>Service</li>
+                            <li>Pricing</li>
+                            <li>Contact</li>
+                        </ul>
+                    </div>
 
-        
+                </div>
+
+            </div>
+
+        </div>
+        <!-- header bottom ends here -->
+
+
 
     </header>
     <!-- header ends here -->
@@ -93,7 +94,7 @@
             <div class="jumbotron">
                 <div class="row">
                     <div class=" col-7 myjum">
-                        <h3 >WELCOME TO MEDINOVA</h3>
+                        <h3>WELCOME TO MEDINOVA</h3>
                         <h5></h5>
 
                         <h1>Best Healthcare Solution in Your City</h1>
@@ -113,7 +114,7 @@
         <section class="sect22 container">
             <div class="row">
                 <div class="col-5">
-                    <div class="mt-4" >
+                    <div class="mt-4">
                         <img class="imgj" src="surg.jpeg" alt="">
                     </div>
 
@@ -127,7 +128,11 @@
 
                             <h1>Best Medical Care for Yourself and Your Family</h1>
 
-                            <p>Tempor erat elitr at rebum at at clita aliquyam consetetur. Diam dolor diam ipsum et, tempor voluptua sit consetetur sit. Aliquyam diam amet diam et eos sadipscing labore. Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo et tempor consetetur takimata eirmod, dolores takimata consetetur invidunt magna dolores aliquyam dolores dolore. Amet erat amet et magna</p>
+                            <p>Tempor erat elitr at rebum at at clita aliquyam consetetur. Diam dolor diam ipsum et,
+                                tempor voluptua sit consetetur sit. Aliquyam diam amet diam et eos sadipscing labore.
+                                Clita erat ipsum et lorem et sit, sed stet no labore lorem sit. Sanctus clita duo justo
+                                et tempor consetetur takimata eirmod, dolores takimata consetetur invidunt magna dolores
+                                aliquyam dolores dolore. Amet erat amet et magna</p>
 
                         </div>
                         <div class="row pt-4 ">
@@ -150,9 +155,7 @@
                                         <li class="res">Services</li>
 
                                     </ul>
-
                                 </div>
-
                             </div>
                             <div class="col-3">
                                 <div class="circleuno">
@@ -180,7 +183,7 @@
                             </div>
 
                         </div>
-                        
+
 
                     </div>
 
@@ -191,13 +194,14 @@
         </section>
 
     </main>
-        <!-- main starts here -->
-<!-- footer starts here -->
+    <!-- main starts here -->
+    <!-- footer starts here -->
     <footer>
 
     </footer>
     <!-- footer starts here -->
 
-    
+
 </body>
+
 </html>
