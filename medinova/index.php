@@ -317,6 +317,7 @@
                 <div class="col-6">
                     <div class="">
                         <h5>APPOINTMENT</h5>
+                        <h6></h6>
                         <h2>Make An Appointment For Your Family</h2>
 
                         <p>Eirmod sed tempor lorem ut dolores. Aliquyam sit sadipscing kasd ipsum. Dolor ea et dolore et at sea ea at dolor, justo ipsum duo rebum sea invidunt voluptua. Eos vero eos vero ea et dolore eirmod et. Dolores diam duo invidunt lorem. Elitr ut dolores magna sit. Sea dolore sanctus sed et. Takimata takimata sanctus sed.</p>
