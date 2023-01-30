@@ -192,6 +192,149 @@
             </div>
 
         </section>
+        <div class="row sect56">
+            <div class="offset-5 col-4 mjko3 pt-4 ">
+                <h3>SERVICES</h3>
+                <h5></h5>
+                <div>
+                    <h2 style="font-size:44px; font-weight:700; color:#1D2A4D;">Excellent Medical Services</h2>
+                </div>
+
+            </div>
+
+        </div>
+        <section class="sect90 ">
+            <div class="row container-fluid ">
+                <div class="col-4">
+                    <div class="box1 ml-4 ">
+                        <div class="">
+                            <ul class="list-unstyled pt-3">
+                                <li class="rty"><i class="pt-3 fa fa-2x fa-user-md" style=" transform: rotate(12deg); font-size:49px;"></i></li>
+                            </ul>
+                            <h4>Emergency Care</h4>
+
+                            <p>Kasd dolor no lorem nonumy sit labore tempor at justo remuubm stet, justco elit dolor amoet si</p>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="col-4">
+                    <div class="box1">
+                        <div class="">
+                            <ul class="list-unstyled pt-3">
+                                <li class="rty"><i class="pt-3 fa fa-2x fa-stethoscope" style="transform:rotate(12deg); font-size:49px;"></i></li>
+
+                            </ul>
+                            <h4>Operation & Surgery</h4>
+                            <p>Kasd dolor no lorem nonumy sit labore tempor at justo remuubm stet, justco elit dolor amoet si</p>
+
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="col-4">
+                    <div class="box1">
+                        <div class="">
+                            <ul class="list-unstyled pt-3">
+                                <li class="rty"><i class="pt-3 fa fa-2x fa-user-md" style="transform:rotate(12deg); font-size:49px;"></i></li>
+
+                            </ul>
+                            <h4>Outdooor Checkup</h4>
+                            <p>Kasd dolor no lorem nonumy sit labore tempor at justo remuubm stet, justco elit dolor amoet si</p>
+
+
+
+                        </div>
+
+                    </div>
+
+                </div>
+              
+
+            </div>
+
+        </section>
+        <section class="sect100">
+
+        <div class="row container-fluid ">
+                <div class="col-4">
+                    <div class="box1 ml-4 ">
+                        <div class="">
+                            <ul class="list-unstyled pt-3">
+                                <li class="rty"><i class="pt-3 fa fa-2x fa-ambulance" style=" transform: rotate(12deg); font-size:49px;"></i></li>
+                            </ul>
+                            <h4>Ambulance Service</h4>
+
+                            <p>Kasd dolor no lorem nonumy sit labore tempor at justo remuubm stet, justco elit dolor amoet si</p>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="col-4">
+                    <div class="box1">
+                        <div class="">
+                            <ul class="list-unstyled pt-3">
+                                <li class="rty"><i class="pt-3 fa fa-2x fa-pills" style="transform:rotate(12deg); font-size:49px;"></i></li>
+
+                            </ul>
+                            <h4>Medicine & Pharmacy</h4>
+                            <p>Kasd dolor no lorem nonumy sit labore tempor at justo remuubm stet, justco elit dolor amoet si</p>
+
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="col-4">
+                    <div class="box1">
+                        <div class="">
+                            <ul class="list-unstyled pt-3">
+                                <li class="rty"><i class="pt-3 fa fa-2x fa-microscope" style="transform:rotate(12deg); font-size:49px;"></i></li>
+
+                            </ul>
+                            <h4>Blood Testing</h4>
+                            <p>Kasd dolor no lorem nonumy sit labore tempor at justo remuubm stet, justco elit dolor amoet si</p>
+
+
+
+                        </div>
+
+                    </div>
+
+                </div>
+              
+
+            </div>
+           
+
+        </section>
+
+        <section class="appt">
+            <div class="row">
+                <div class="col-6">
+                    <div class="">
+                        <h5>APPOINTMENT</h5>
+                        <h2>Make An Appointment For Your Family</h2>
+
+                        <p>Eirmod sed tempor lorem ut dolores. Aliquyam sit sadipscing kasd ipsum. Dolor ea et dolore et at sea ea at dolor, justo ipsum duo rebum sea invidunt voluptua. Eos vero eos vero ea et dolore eirmod et. Dolores diam duo invidunt lorem. Elitr ut dolores magna sit. Sea dolore sanctus sed et. Takimata takimata sanctus sed.</p>
+
+                        <div>
+                            <button class="btn btn-lg btn-dark">Find Doctor</button>
+                            <button class="btn btn-lg btn-primary">Read More</button>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-6">
+
+                </div>
+
+            </div>
+
+        </section>
 
     </main>
     <!-- main starts here -->
