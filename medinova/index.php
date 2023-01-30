@@ -313,23 +313,71 @@
         </section>
 
         <section class="appt">
-            <div class="row">
-                <div class="col-6">
-                    <div class="">
+            <div class="row pt-4">
+                <div class="offset-1 col-5">
+                    <div class="ml-4 app">
                         <h5>APPOINTMENT</h5>
-                        <h6></h6>
                         <h2>Make An Appointment For Your Family</h2>
 
                         <p>Eirmod sed tempor lorem ut dolores. Aliquyam sit sadipscing kasd ipsum. Dolor ea et dolore et at sea ea at dolor, justo ipsum duo rebum sea invidunt voluptua. Eos vero eos vero ea et dolore eirmod et. Dolores diam duo invidunt lorem. Elitr ut dolores magna sit. Sea dolore sanctus sed et. Takimata takimata sanctus sed.</p>
 
                         <div>
-                            <button class="btn btn-lg btn-dark">Find Doctor</button>
-                            <button class="btn btn-lg btn-primary">Read More</button>
+                            <button class="btn btn-lg btn-dark gege">Find Doctor</button>
+                            <button class="btn btn-lg btn-primary gege" style="background-color:#ffffff0f; color:#1D2A4D;">Read More</button>
                         </div>
                     </div>
 
                 </div>
                 <div class="col-6">
+                    <div class="formtroy">
+                        <h2 class="text-center">Book An Appointment</h2>
+                        <div class="row">
+                            <div class="col-6">
+                            <select class="form-select"  aria-label="Default select example">
+                                <option selected>Choices</option>
+                                <option value="1">Dentist Department</option>
+                                <option value="2">Surgery Department</option>
+                                <option value="3">Plastic Department</option>
+                                </select>
+                                <div class="mb-3 form-label">
+                                    <input type="text " placeholder="Your Name"  class="form-control mt-2" id="exampleInputEmail1"  aria-describedby="emailHelp">
+                                </div>
+                                <div class="mb-3 form-label">
+                                    <label style="font-weight:600;" for="exampleInputEmail1" class="form-label">Date</label>
+                                    <input type="date" placeholder="Choose your Date"  class="form-control" id="exampleInputEmail1"  aria-describedby="emailHelp">
+                                </div>
+                                
+                                
+
+                            </div>
+                            <div class="col-6">
+                                <select class="form-select" arial-label="Select Doctor" id="">
+
+                                <option selected>Choices of Doctor</option>
+
+                                <option value="1">Dr. Sam</option>
+                                <option value="2">Dr. Livia</option>
+                                <option value="3">Dr. James</option>
+
+
+                                </select>
+                                <div class="mb-3 form-label">
+                                    <input type="email" placeholder="Enter your Email"  class="form-control mt-2" id="exampleInputEmail1"  aria-describedby="emailHelp">
+                                </div>
+                                <div class="mb-3 form-label">
+                                    <label style="font-weight:600;" for="exampleInputEmail1" class="form-label">Time</label>
+                                    <input  type="time" placeholder="Choose your Time"  class="form-control" id="exampleInputEmail1"  aria-describedby="emailHelp">
+                                </div>
+
+                            </div>
+                        </div>
+                          <div class="d-grid gap-2">
+                            <button class="btn btn-primary" type="button" style="background-color:#13C5DD; border:#13C5DD; height:50px; font-weight:700;">Make An Appointment</button>
+                            </div>
+                            <!-- <button class="btn-xl btn-primary" style="background-color:#13C5DD; border:#13C5DD;">Make An Appointment</button> -->
+
+
+                    </div>
 
                 </div>
 
