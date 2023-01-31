@@ -90,6 +90,7 @@
     <!-- header ends here -->
     <!-- main starts here -->
     <main class="container-fluids">
+        <!-- section 21 starts savage -->
         <section class="sect21">
             <div class="jumbotron">
                 <div class="row">
@@ -110,7 +111,9 @@
             </div>
 
         </section>
+                <!-- section 21 starts savage -->
 
+<!-- section sect22 starts here -->
         <section class="sect22 container">
             <div class="row">
                 <div class="col-5">
@@ -192,18 +195,24 @@
             </div>
 
         </section>
-        <div class="row sect56">
-            <div class="offset-5 col-4 mjko3 pt-4 ">
+        <!-- section sect22 ends here -->
+
+        <!-- services row -->
+        <div class="row sect56 mt-3">
+            <div class="offset-4 col-5 mjko3 pt-4 ">
                 <h3>SERVICES</h3>
                 <h5></h5>
                 <div>
-                    <h2 style="font-size:44px; font-weight:700; color:#1D2A4D;">Excellent Medical Services</h2>
+                    <h2 style="font-size:39px; font-weight:400; color:#1D2A4D;">Excellent Medical Services</h2>
                 </div>
 
             </div>
 
         </div>
-        <section class="sect90 ">
+                <!-- services row -->
+
+                <!-- section 90 statrts here -->
+        <section class="sect90 mt-2 ">
             <div class="row container-fluid ">
                 <div class="col-4">
                     <div class="box1 ml-4 ">
@@ -256,8 +265,10 @@
             </div>
 
         </section>
-        <section class="sect100">
+                        <!-- section 90 ends here -->
 
+                        <!-- section 100 starts heres codes -->
+        <section class="sect100">
         <div class="row container-fluid ">
                 <div class="col-4">
                     <div class="box1 ml-4 ">
@@ -311,7 +322,10 @@
            
 
         </section>
+                                <!-- section 100 starts heres codes -->
 
+
+                                <!-- sections aopps starts here -->
         <section class="appt">
             <div class="row pt-4">
                 <div class="offset-1 col-5">
@@ -330,7 +344,8 @@
                 </div>
                 <div class="col-6">
                     <div class="formtroy">
-                        <h2 class="text-center">Book An Appointment</h2>
+                        <form action="index.php" method="get">
+                        <h2 class="text-center bolp" >Book An Appointment</h2>
                         <div class="row">
                             <div class="col-6">
                             <select class="form-select"  aria-label="Default select example">
@@ -354,15 +369,12 @@
                                 <select class="form-select" arial-label="Select Doctor" id="">
 
                                 <option selected>Choices of Doctor</option>
-
                                 <option value="1">Dr. Sam</option>
                                 <option value="2">Dr. Livia</option>
                                 <option value="3">Dr. James</option>
-
-
                                 </select>
                                 <div class="mb-3 form-label">
-                                    <input type="email" placeholder="Enter your Email"  class="form-control mt-2" id="exampleInputEmail1"  aria-describedby="emailHelp">
+                                    <input type="email" placeholder="Enter your Email" required  class="form-control mt-2" id="exampleInputEmail1"  aria-describedby="emailHelp">
                                 </div>
                                 <div class="mb-3 form-label">
                                     <label style="font-weight:600;" for="exampleInputEmail1" class="form-label">Time</label>
@@ -374,16 +386,18 @@
                           <div class="d-grid gap-2">
                             <button class="btn btn-primary" type="button" style="background-color:#13C5DD; border:#13C5DD; height:50px; font-weight:700;">Make An Appointment</button>
                             </div>
-                            <!-- <button class="btn-xl btn-primary" style="background-color:#13C5DD; border:#13C5DD;">Make An Appointment</button> -->
-
-
                     </div>
+                    </form>
 
                 </div>
-
             </div>
 
         </section>
+        <p class="text-center">Created by : Samuel Gbadamosi </p>
+        <hr>
+        <!-- section ends here -->
+    
+
 
     </main>
     <!-- main starts here -->

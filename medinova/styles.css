@@ -163,7 +163,7 @@ header{
 }
 
 .sect56{
-    height: 200px;
+    height: 130px;
     background-color:white;
 }
 
@@ -173,7 +173,7 @@ header{
 }
 
 .box1{
-    height: 272px;
+    /* height: 272px; */
     background-color: #EFF5F9;
     width: 413px;
     border-radius: 35px;
@@ -216,7 +216,7 @@ header{
 
 
 .appt{
-    height: 450px;
+    height: 500px;
     background-color: #32C5DE;
 }
 
@@ -262,3 +262,29 @@ header{
     padding: 12px;
 
 }
+
+.suban{
+    height: 100px;
+    /* background-color: red; */
+}
+
+.bolp{
+    color: #1D2A4D;
+    font-weight: 800;
+    font-family: "Roboto Condensed",sans-serif;
+    padding: 10px;
+}
+
+.sweden{
+    height: 400px;
+    background-color: #32C5DE;
+}
+
+.mydof{
+   height: 400px;
+   width: 409px;
+   border-radius: 20px;
+   background-color: purple;
+}
+
+
