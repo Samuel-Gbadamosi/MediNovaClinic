@@ -396,9 +396,6 @@
         <p class="text-center">Created by : Samuel Gbadamosi </p>
         <hr>
         <!-- section ends here -->
-    
-
-
     </main>
     <!-- main starts here -->
     <!-- footer starts here -->
