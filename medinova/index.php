@@ -393,7 +393,7 @@
             </div>
 
         </section>
-        <p class="text-center">Created by : Samuel Gbadamosi </p>
+        <p class="text-center pt-3" style="font-weight:bold;">Created by : Samuel Gbadamosi </p>
         <hr>
         <!-- section ends here -->
     </main>
